@@ -969,6 +969,14 @@ video {
   background-color: rgb(82 173 192 / var(--tw-bg-opacity));
 }
 
+.block {
+  display: block;
+}
+
+.pr-2 {
+  padding-right: 8px;
+}
+
 .bg-color5 {
   --tw-bg-opacity: 1;
   background-color: rgb(246 247 250 / var(--tw-bg-opacity));
@@ -1614,9 +1622,7 @@ video {
     width: 25%;
   }
 
-  .md\:w-\[\%\] {
-    width: %;
-  }
+
 
   .md\:justify-between {
     justify-content: space-between;
